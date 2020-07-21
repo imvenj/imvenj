@@ -12,4 +12,4 @@
 
 💬 做过 RoR, iOS App, macOS App, Sys Admin, Angular/React/Vue, 现在前端，后端，(iOS)客户端都能插一脚。
 
-📫 如果您有问题要问我，可以给我发[邮件](i@venj.me)。
+📫 如果您有问题要问我，可以给我发[邮件](mailto:i@venj.me)。
